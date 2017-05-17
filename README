@@ -1,0 +1,7 @@
+IMAGES MOSAICING
+
+Given 3 images in a "panoramic" configuration, generate a fourth image by stitching them together, each transformed by a corresponding transformation group to create:
+
++ Translational mosaic
++ Affine mosaic
++ Projective mosaic
